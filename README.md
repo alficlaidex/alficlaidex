@@ -1,62 +1,87 @@
 <div align="center">
 
-# Alfi — Claidex
+# Alfi
 
-**WhatsApp bot developer · Node.js / ESM**
+**Software Developer — JavaScript · Node.js · Python · Next.js · C#**
 
-Building and maintaining **Claidex-Bot**, a full-featured WhatsApp automation platform.
+Building products end-to-end: backend services, automation, and web apps.
 
 [![Node.js](https://img.shields.io/badge/Node.js-20.9%2B-339933?logo=nodedotjs&logoColor=white)](https://nodejs.org/)
-[![zapo-js](https://img.shields.io/badge/zapo--js-1.9-ff6600?logo=whatsapp&logoColor=white)](https://www.npmjs.com/package/zapo-js)
-[![License: GPL-2.0](https://img.shields.io/badge/license-GPL--2.0-blue.svg)](LICENSE)
+[![Python](https://img.shields.io/badge/Python-3.x-3776AB?logo=python&logoColor=white)](https://www.python.org/)
+[![Next.js](https://img.shields.io/badge/Next.js-15-000000?logo=nextdotjs&logoColor=white)](https://nextjs.org/)
+[![C%23](https://img.shields.io/badge/C%23-.NET-239120?logo=sharp&logoColor=white)](https://dotnet.microsoft.com/)
 
 </div>
 
 ---
 
-## 🚀 Featured Project
+## About
 
-### [Claidex-Bot](https://github.com/alficlaidex/alficlaidex)
+Senior-minded developer focused on shipping: clean architecture, boring reliable
+infrastructure (pm2, SQLite, reverse tunnels), and code that survives production.
+Primary stack is JavaScript/Node.js, with Python for tooling and C#/.NET when the
+platform demands it.
 
-WhatsApp bot custom berbasis `zapo-js` — multi-prefix command routing, rich menu, dan state SQLite lokal.
+---
+
+## Selected Projects
+
+### Claidex-Bot
+
+Full-featured WhatsApp automation platform built on `zapo-js` — multi-prefix
+command routing, rich nativeFlow menus, and local SQLite state.
 
 | | |
 |---|---|
-| **Kategori command** | `ai` · `downloader` · `game` · `group` · `rpg` · `shop` · `owner` · `general` · `interactive` |
-| **Fitur inti** | Rich message menu (nativeFlow), hot reload atomik, permission admin/staff, anti-link & welcome grup, stiker/media toolkit |
-| **RPG engine** | Karakter, combat, quest, crafting, shop, travel, equipment — semua state di SQLite |
-| **Media** | YouTube/IG downloader tanpa API key, audio transcode (FFmpeg), stiker & konversi gambar (sharp) |
-| **Infra** | pm2 · Cloudflare Tunnel · WebSocket pairing/QR · Puppeteer untuk rendering |
+| **Categories** | `ai` · `downloader` · `game` · `group` · `rpg` · `shop` · `owner` · `general` |
+| **Core** | Atomic hot reload, admin/staff permission model, anti-link & welcome flows, sticker/media toolkit |
+| **RPG engine** | Characters, combat, quests, crafting, shop, travel — all persisted in SQLite |
+| **Media** | YouTube/IG downloader (no API key), FFmpeg transcoding, sharp image pipeline |
+| **Infra** | pm2 · Cloudflare Tunnel · WebSocket pairing/QR · Puppeteer rendering |
+
+### Claidex Collage — [collage.cloudku.us.kg](https://collage.cloudku.us.kg)
+
+Web app for composing photo collages with watermark and nameplate overlays.
+Canvas rendering runs client-side; a thin Node.js API handles upload, positioning
+metadata, and export.
+
+| | |
+|---|---|
+| **Stack** | Node.js · canvas (client-side) · multipart API (`POST /api/collage`) |
+| **Deploy** | pm2 behind Cloudflare Tunnel, HTTPS at `collage.cloudku.us.kg` |
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
-<table>
-<tr>
-<td><img src="https://img.shields.io/badge/Node.js-ESM-339933?logo=nodedotjs&logoColor=white" alt="Node.js"></td>
-<td><img src="https://img.shields.io/badge/zapo--js-WhatsApp-25D366?logo=whatsapp&logoColor=white" alt="zapo-js"></td>
-<td><img src="https://img.shields.io/badge/SQLite-better--sqlite3-003B57?logo=sqlite&logoColor=white" alt="SQLite"></td>
-<td><img src="https://img.shields.io/badge/Puppeteer-Chromium-40B5A4?logo=googlechrome&logoColor=white" alt="Puppeteer"></td>
-<td><img src="https://img.shields.io/badge/FFmpeg-media-007808?logo=ffmpeg&logoColor=white" alt="FFmpeg"></td>
-<td><img src="https://img.shields.io/badge/ws-WebSocket-010101?logo=socketdotio&logoColor=white" alt="ws"></td>
-</tr>
-</table>
+| Language / Framework | Use |
+|---|---|
+| **JavaScript / Node.js** | Primary — bots, APIs, realtime (ws), tooling |
+| **Python** | Scripts, automation, data tooling |
+| **Next.js** | React web apps, SSR/dashboards |
+| **C# / .NET** | Windows-native and enterprise integrations |
+| **SQLite · Puppeteer · FFmpeg · sharp** | Persistence, browser automation, media pipeline |
 
 ---
 
-## 📊 GitHub
+## Writing & Channels
+
+Long-form notes and tutorials — **coming soon**. Channel links: fill in later.
+
+- 📝 Blog — *TBA*
+- 💬 WhatsApp Channel — *TBA*
+- ✈️ Telegram — *TBA*
+- 📸 Instagram — *TBA*
+- 🎵 TikTok — *TBA*
+
+<!-- TODO(alfi): replace each "TBA" with the real URL, e.g. - 💬 WhatsApp Channel — https://... -->
+
+---
+
+## GitHub
 
 <div align="center">
 
 ![Alfi's stats](https://github-readme-stats.vercel.app/api?username=alficlaidex&show_icons=true&theme=dark&hide_border=true)
-
-</div>
-
----
-
-<div align="center">
-
-*Building in the open — attribution to upstream projects preserved.*
 
 </div>
