@@ -1,15 +1,16 @@
 <div align="center">
 
-# Alfi
+# Hi, I'm **Alfi**
 
-**Software Developer — JavaScript · Node.js · Python · Next.js · C#**
+### Software Developer
 
-Building products end-to-end: backend services, automation, and web apps.
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&width=620&lines=Building+production+systems;Node.js+%C2%B7+Python+%C2%B7+Next.js+%C2%B7+C%23;Claidex-Bot+%C2%B7+Claidex+Collage;clean+architecture+%2C+boring+infrastructure)](https://git.io/typing-svg)
 
 [![Node.js](https://img.shields.io/badge/Node.js-20.9%2B-339933?logo=nodedotjs&logoColor=white)](https://nodejs.org/)
 [![Python](https://img.shields.io/badge/Python-3.x-3776AB?logo=python&logoColor=white)](https://www.python.org/)
 [![Next.js](https://img.shields.io/badge/Next.js-15-000000?logo=nextdotjs&logoColor=white)](https://nextjs.org/)
 [![C%23](https://img.shields.io/badge/C%23-.NET-239120?logo=sharp&logoColor=white)](https://dotnet.microsoft.com/)
+![Profile views](https://komarev.com/ghpvc/?username=alficlaidex&color=blueviolet)
 
 </div>
 
@@ -17,10 +18,19 @@ Building products end-to-end: backend services, automation, and web apps.
 
 ## About
 
-Senior-minded developer focused on shipping: clean architecture, boring reliable
-infrastructure (pm2, SQLite, reverse tunnels), and code that survives production.
-Primary stack is JavaScript/Node.js, with Python for tooling and C#/.NET when the
-platform demands it.
+```js
+const alfi = {
+  role: "Software Developer",
+  languages: ["JavaScript", "Node.js", "Python", "Next.js", "C#"],
+  focus: ["backend services", "automation", "web apps"],
+  philosophy: "ship clean, keep infrastructure boring, code that survives production",
+  online: true,
+};
+```
+
+Senior-minded developer working end-to-end: from architecture decision to the
+pm2 process serving traffic. Primary stack is JavaScript/Node.js, Python for
+tooling, C#/.NET when the platform demands it.
 
 ---
 
@@ -64,9 +74,25 @@ metadata, and export.
 
 ---
 
+## GitHub Activity
+
+<div align="center">
+
+![Alfi's stats](https://github-readme-stats.vercel.app/api?username=alficlaidex&show_icons=true&theme=transparent&hide_border=true&title_color=58A6FF&icon_color=79c0ff)
+
+![Streak](https://streak-stats.demolab.com?user=alficlaidex&theme=transparent&border=30363D&currNum=79c0ff&sideNums=c9d1d9&dates=8b949e&hide_border=true)
+
+</div>
+
+---
+
 ## Writing & Channels
 
-Long-form notes and tutorials — **coming soon**. Channel links: fill in later.
+<div align="center">
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3400&pause=1000&color=8B949E&center=true&vCenter=true&width=560&lines=Notes+tutorials+and+channels.+coming+soon)](https://git.io/typing-svg)
+
+</div>
 
 - 📝 Blog — *TBA*
 - 💬 WhatsApp Channel — *TBA*
@@ -75,13 +101,3 @@ Long-form notes and tutorials — **coming soon**. Channel links: fill in later.
 - 🎵 TikTok — *TBA*
 
 <!-- TODO(alfi): replace each "TBA" with the real URL, e.g. - 💬 WhatsApp Channel — https://... -->
-
----
-
-## GitHub
-
-<div align="center">
-
-![Alfi's stats](https://github-readme-stats.vercel.app/api?username=alficlaidex&show_icons=true&theme=dark&hide_border=true)
-
-</div>
