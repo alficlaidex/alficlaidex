@@ -62,6 +62,8 @@ metadata, and export.
 
 ---
 
+![preview lirik](https://raw.githubusercontent.com/alficlaidex/alficlaidex/main/preview.png)
+
 ## Tech Stack
 
 | Language / Framework | Use |
@@ -86,16 +88,20 @@ metadata, and export.
 
 ---
 
-## Writing & Channels
+## Kanal & Media Sosial
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3400&pause=1000&color=8B949E&center=true&vCenter=true&width=560&lines=Notes+tutorials+and+channels.+coming+soon)](https://git.io/typing-svg)
+- 💬 WhatsApp Channel: https://www.whatsapp.com/channel/0029VbCOLKRKrWQtIO1vzN0E({WA})
+- 🎵 TikTok: https://www.tiktok.com/@claidexdeveloper({TT})
+- 📷 Instagram: *TBA*
+- ✈️ Telegram: *TBA*
+- 📝 Blog: *TBA*
+
+![preview lirik](https://raw.githubusercontent.com/alficlaidex/alficlaidex/main/preview.png)
 
 </div>
 
-- 📝 Blog — *TBA*
-- 💬 WhatsApp Channel — https://www.whatsapp.com/channel/0029VbCOLKRKrWQtIO1vzN0E
-- ✈️ Telegram — *TBA*
-- 📸 Instagram — *TBA*
-- 🎵 TikTok — https://www.tiktok.com/@claidexdeveloper
+## Selected Projects
+
+### Claidex-Bot
