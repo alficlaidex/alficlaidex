@@ -95,9 +95,7 @@ metadata, and export.
 </div>
 
 - 📝 Blog — *TBA*
-- 💬 WhatsApp Channel — *TBA*
+- 💬 WhatsApp Channel — https://www.whatsapp.com/channel/0029VbCOLKRKrWQtIO1vzN0E
 - ✈️ Telegram — *TBA*
 - 📸 Instagram — *TBA*
-- 🎵 TikTok — *TBA*
-
-<!-- TODO(alfi): replace each "TBA" with the real URL, e.g. - 💬 WhatsApp Channel — https://... -->
+- 🎵 TikTok — https://www.tiktok.com/@claidexdeveloper
