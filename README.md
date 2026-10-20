@@ -62,7 +62,6 @@ metadata, and export.
 
 ---
 
-![preview lirik](https://raw.githubusercontent.com/alficlaidex/alficlaidex/main/preview.png)
 
 ## Tech Stack
 
@@ -98,7 +97,6 @@ metadata, and export.
 - ✈️ Telegram: *TBA*
 - 📝 Blog: *TBA*
 
-![preview lirik](https://raw.githubusercontent.com/alficlaidex/alficlaidex/main/preview.png)
 
 </div>
 
