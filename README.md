@@ -92,8 +92,8 @@ metadata, and export.
 
 <div align="center">
 
-- 💬 WhatsApp Channel: https://www.whatsapp.com/channel/0029VbCOLKRKrWQtIO1vzN0E({WA})
-- 🎵 TikTok: https://www.tiktok.com/@claidexdeveloper({TT})
+- 💬 WhatsApp Channel: https://www.whatsapp.com/channel/0029VbCOLKRKrWQtIO1vzN0E
+- 🎵 TikTok: https://www.tiktok.com/@claidexdeveloper
 - 📷 Instagram: *TBA*
 - ✈️ Telegram: *TBA*
 - 📝 Blog: *TBA*
